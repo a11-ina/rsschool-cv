@@ -1,6 +1,4 @@
 
 # **Alina Hodosevich**
 
-******************
-
-# *Junior Frontend Developer*
+## *Junior Frontend Developer*
