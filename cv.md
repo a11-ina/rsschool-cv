@@ -3,8 +3,8 @@
 
 ## *Junior Frontend Developer*
 
-### Contact information":"
+### Contact information:
 
-Phone: +375 25 706 09 00
-E-mail: <o.k.junie@gmail.com>
-Telegram: <@A11-inA>
+Phone: +375 25 706 09 00  
+E-mail: o.k.junie@gmail.com  
+Telegram: @A11-inA  
