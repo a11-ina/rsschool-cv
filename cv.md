@@ -36,6 +36,6 @@ alert( result );
 *RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ### Languages:
-*Russian - Native
-*English - [Elementary](https://cert.efset.org/9Cargf)
+*Russian - Native  
+*English - [Elementary](https://cert.efset.org/9Cargf)  
 *Polish - Basic
